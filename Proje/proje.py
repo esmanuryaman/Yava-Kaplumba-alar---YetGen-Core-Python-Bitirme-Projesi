@@ -1,8 +1,9 @@
-import requests
 import os
+import requests
 from PIL import Image
 
-apiKey = "dcbe55c1e3134568a5824acb8fc1ca1a"
+# API anahtarınızı doğrudan buraya girin
+apiKey = 'dcbe55c1e3134568a5824acb8fc1ca1a'  # Buraya kendi API anahtarınızı ekleyin
 baseUrl = "http://api.openweathermap.org/data/2.5/"
 
 # Görsel dosyalarının yolu
