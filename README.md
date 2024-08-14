@@ -51,4 +51,4 @@ Uygulamayı çalıştırmadan önce aşağıdaki gereksinimlerin yüklü olduğu
 
 Bu uygulama OpenWeatherMap API'sini kullanmaktadır. Uygulamayı çalıştırabilmek için bir API anahtarına ihtiyacınız olacak. Kodun içindeki API anahtarı kısmına (şu anda `dcbe55c1e3134568a5824acb8fc1ca1a` olan kısım) kendi API anahtarınızı eklemeniz gerekmektedir. API anahtarınızı almak için [OpenWeatherMap](https://openweathermap.org/) sitesine kaydolabilirsiniz.
 
-Herhangi bir ekleme veya değişiklik yapmak isterseniz, bana bildirin!
+Herhangi bir ekleme veya değişiklik yapmak isterseniz, bize bildirin!
