@@ -45,7 +45,7 @@ Uygulamayı çalıştırmadan önce aşağıdaki gereksinimlerin yüklü olduğu
 
 ## Örnek
 
-![Pembe Hava Durumu Uygulaması Ekran Görüntüsü](screenshot-yolu.png)
+[Ekran görüntüsü 2024-08-14 214159](https://github.com/user-attachments/assets/fae8ae09-479c-4cff-95be-1454d44e2765)
 
 ## API Anahtarı
 
