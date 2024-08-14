@@ -3,7 +3,7 @@ Bu repo YetGen Core - Python eğitim programı bitirme projesi için açılmış
 
 # Pembe Hava Durumu Uygulaması
 
-Bu, kullanıcıların herhangi bir şehrin güncel hava durumunu kontrol edebileceği basit bir hava durumu uygulamasıdır. Uygulama, OpenWeatherMap API'sinden sıcaklık ve hava durumu açıklaması verilerini alır. Kullanıcı arayüzü, `tkinter` kütüphanesi kullanılarak açık pembe bir tema ile tasarlanmıştır.
+Bu, kullanıcıların herhangi bir şehrin güncel hava durumunu kontrol edebileceği basit bir hava durumu uygulamasıdır. Uygulama, OpenWeatherMap API'sinden sıcaklık ve hava durumu açıklaması verilerini alır. Kullanıcı arayüzü, `tkinter`  kütüphanesi kullanılarak açık pembe bir tema ile tasarlanmıştır.
 
 ## Özellikler
 
@@ -21,7 +21,7 @@ Uygulamayı çalıştırmadan önce aşağıdaki gereksinimlerin yüklü olduğu
   ```
   pip install requests
   ```
-
+  
 ## Kurulum
 
 1. Bu projeyi indirin veya klonlayın.
@@ -45,7 +45,7 @@ Uygulamayı çalıştırmadan önce aşağıdaki gereksinimlerin yüklü olduğu
 
 ## Örnek
 
-[Ekran görüntüsü 2024-08-14 214159](https://github.com/user-attachments/assets/fae8ae09-479c-4cff-95be-1454d44e2765)
+[Uygulama Ekran Görüntüsü 2024-08-14 214159](https://github.com/user-attachments/assets/fae8ae09-479c-4cff-95be-1454d44e2765)
 
 ## API Anahtarı
 
